@@ -1,12 +1,7 @@
 """
 Version:                0.1 (Customer)
 Date created:           27 September 2023
-Date last worked on:    28 September 2023
 Description:            Class for customers. This will be where each customer is created and used throughout the program.
-Changes made:           -Created function getCustDict, was also completed.
-                        -Function createCustomers was completed.
-                        -Function givePreferences was completed.
-Still to do:            -scorePizza function still needs to be created.
 """
 
 import json
