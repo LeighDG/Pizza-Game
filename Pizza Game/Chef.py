@@ -1,5 +1,7 @@
 """
-
+Version:                0.1 (Chef)
+Date created:           27 September 2023
+Description:            Class for the chef(player). The chef class stores all the player choices and stats. 
 """
 
 import Kitchen as Kitchen
