@@ -1,12 +1,7 @@
 """
 Version:                0.1 (Kitchen)
 Date created:           28 September 2023
-Date last worked on:    28 September 2023
 Description:            Class for the kitchen. The kitchen is responsible for allocating toppings for the chef and making the pizza.
-Changes made:           -Kitchen class was made.
-Still to do:            -giveToppings function needs to be made.
-                        -makePizza function needs to be made
-                        -AllToppings json file needs to be made.
 """
 import json
 import random
